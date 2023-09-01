@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+Check out the app at https://react-eat-n-split-gamma.vercel.app/
+
+<img src="app.gif" width="900" height="500"/>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
